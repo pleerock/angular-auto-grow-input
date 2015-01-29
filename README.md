@@ -8,7 +8,7 @@ Open samples/index.html to see the example how to use this directive.
 
 **Installation**
 
-1. Run bower install angular-auto-grow-input --save
+1. Run `bower install angular-auto-grow-input --save`
 
     * (or add manually into your bower.json dependencies and run bower-install)
     * (or download ZIP from github and extract files in the case if you don't use bower)
@@ -23,6 +23,7 @@ angular.module('yourApp', ['autoGrowInput', ...])
 **How to use it**
 
 Append a directive to your input: `<input auto-grow-input>`
+How enjoy how your input grows as you type text in it.
 
 **TODO-s (for contributors)**:
 
