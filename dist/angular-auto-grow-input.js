@@ -1,4 +1,7 @@
 /**
+ * Some parts of this directive are learned to be from the sources of the Selectize.js library, created by
+ * Brian Reavis (https://github.com/brianreavis/selectize.js).
+ *
  * @author Umed Khudoiberdiev <info@zar.tj>
  */
 (function() {
@@ -12,16 +15,6 @@
      * into this input box.
      */
     angular.module('autoGrowInput', []);
-
-})();
-/**
- * Some parts of this directive are learned to be from the sources of the Selectize.js library, created by
- * Brian Reavis (https://github.com/brianreavis/selectize.js).
- *
- * @author Umed Khudoiberdiev <info@zar.tj>
- */
-(function() {
-    'use strict';
 
     /**
      * @ngdoc directive
