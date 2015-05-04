@@ -1,7 +1,7 @@
 {
   "name": "angular-auto-grow-input",
   "description": "Angular directive used with input to make input to grow as soon as user types text.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": ["input-auto-grow", "auto-grow-input", "auto-growing-input", "angular-input-auto-grow", "angular-auto-grow-input", "input-auto-width"],
   "authors": [
     { "name": "Umed Khudoiberdiev", "email": "info@zar.tj" }
