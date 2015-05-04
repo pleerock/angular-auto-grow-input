@@ -78,11 +78,6 @@
      */
     function createInputStringMeasureContainer(parentElement) {
         var body = document.querySelector('body');
-        var test = body.querySelector('#tokenInputStringMeasure');
-
-        if (test)
-            return angular.element(test);
-
         var stringMeasureElement = angular.element('<div id="tokenInputStringMeasure">');
         stringMeasureElement.css({
             position: 'absolute',
