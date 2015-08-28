@@ -23,7 +23,7 @@ angular.module('yourApp', ['autoGrowInput', ...])
 **How to use it**
 
 Append a directive to your input: `<input auto-grow-input>`
-How enjoy how your input grows as you type text in it.
+Now enjoy how your input grows as you type text in it.
 
 **TODO-s (for contributors)**:
 
